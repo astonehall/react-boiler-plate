@@ -6,9 +6,29 @@
 - Removed default .css files
 - Removed default .test file
 
-///////////////////////////////////////
+# Useful packages (optional, not included in boiler plate)
 
-# Getting Started with Create React App
+### Routing
+
+`yarn add react-router-dom`
+
+### Redux / Saga
+
+`yarn add react-redux`
+`yarn add redux-saga`
+
+### UI Libraries
+
+**Material UI (now MUI)**
+yarn add @mui/material @emotion/react @emotion/styled
+
+**React Bootstrap**
+yarn add react-bootstrap
+
+**Semantic**
+yarn add semantic-ui-react semantic-ui-css
+
+# Default create-react-app readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
