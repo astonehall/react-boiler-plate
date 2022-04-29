@@ -20,12 +20,15 @@
 ### UI Libraries
 
 **Material UI (now MUI)**
+
 yarn add @mui/material @emotion/react @emotion/styled
 
 **React Bootstrap**
+
 yarn add react-bootstrap
 
 **Semantic**
+
 yarn add semantic-ui-react semantic-ui-css
 
 # Default create-react-app readme
