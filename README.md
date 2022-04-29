@@ -1,3 +1,13 @@
+# About this boiler plate
+
+- Created using create-react-app with TypeScript
+- ESlint and Prettier config. Set up to my personal liking for the majority of projects but can be easily changed.
+- Removed create-react-app default html from App.tsx
+- Removed default .css files
+- Removed default .test file
+
+///////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
